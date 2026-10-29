@@ -1,0 +1,16 @@
+Linux System Monitoring Lab - Sample Report
+
+System Infromation: 
+- Current user [redacted]
+- Memory usage: Collected successfully 
+- Disk usage: Collected successfully
+- Top CPU processes: Collected successfully
+
+Security Log Monitoring:
+- Failed login attempt: Detected
+- Uernames: [redacted]
+- Log details: [redacted]
+
+Result: 
+The Bash script collected system information and searched authentication logs for failed password attempts. 
+
